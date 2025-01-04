@@ -2,10 +2,13 @@
 8 Ball Pool Coins are the in-game currency used in the popular online multiplayer game 8 Ball Pool by Miniclip. These coins serve multiple purposes in the game, allowing players to:
 1. Enter Matches and Tournaments
 
+2. <h2><a href="https://allresources.xyz/8ball.html/">LEARN MORE</a></h2>
+
+
     Each match or tournament requires an entry fee paid in coins.
     Winning a match rewards you with the combined entry fees from both players, minus a small percentage deducted by the game.
 
-2. Purchase Cues and Upgrades
+3. Purchase Cues and Upgrades
 
     Players can buy or upgrade cues using coins. Different cues have unique attributes like:
         Power: Affects the strength of your shots.
@@ -13,11 +16,11 @@
         Aim: Extends your aiming guideline.
         Time: Increases your shot timer.
 
-3. Customize Your Profile
+4. Customize Your Profile
 
     Coins can be used to buy profile customizations such as avatars or chat packs.
 
-4. Unlock Higher-Tier Matches
+5. Unlock Higher-Tier Matches
 
     More coins allow access to higher-stakes tables and tournaments with larger entry fees and rewards.
 
